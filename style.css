@@ -11,7 +11,7 @@ header{
     flex-wrap: wrap;
     justify-content: center;
     align-items: center;
-    width:1500px;
+/*     width:1500px; */
 }
 span{
     font-size: 25px;
@@ -505,3 +505,4 @@ img{
     line-height: 25px;
 
 }
+
